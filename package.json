@@ -1,0 +1,22 @@
+{
+  "name": "fb-autoreply",
+  "version": "1.0.0",
+  "description": "Facebook Chat AutoReply Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "facebook",
+    "chat",
+    "away",
+    "autoreply"
+  ],
+  "author": "Patrizio Tufarolo",
+  "license": "MIT",
+  "dependencies": {
+    "facebook-chat-api": "^1.2.0",
+    "moment": "^2.14.1",
+    "readline-sync": "^1.4.4"
+  }
+}
